@@ -1,1 +1,11 @@
-# Employee_Time_Tracking_System_3-FikretGorkey-Eren-Mehmet-MustafaKaan
+# PROJECT:
+Employee Time Tracking System
+
+# GROUP MEMBERS:
+Eren ULUGÖL \
+Fikret Görkey ÖZKUL \
+Mehmet MALLI \
+Mustafa Kaan AYDIN 
+
+
+
